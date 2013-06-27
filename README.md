@@ -5,7 +5,7 @@ ASEE Conferences Latex Template
 
 A Latex template for ASEE conference proceedings papers.
 
-ASEE provides a list of formatting requirements on its [webite](http://www.asee.org/conferences-and-events/conferences).
+ASEE provides a list of formatting requirements on its [website](http://www.asee.org/conferences-and-events/conferences).
 
 ## For the abstract
 ### Title:
