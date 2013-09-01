@@ -3,7 +3,8 @@
 \usepackage[utf8x]{inputenc}
 \usepackage{amsmath}
 \usepackage{graphicx}
-\usepackage{titling}
+\usepackage{etoolbox}
+\usepackage{changepage}
 \usepackage[margin=1in]{geometry}
 \usepackage{times}
 \usepackage[superscript,biblabel]{cite}
@@ -21,6 +22,11 @@
 %\normalsize Name of Your Department\\\
 %normalsize Your Institution Name}
 \date{} % This leaves the date blank.
+
+\makeatletter % This gets the margins for the title set.
+\patchcmd{\@maketitle}{\begin{center}}{\begin{adjustwidth}{0.5in}{0.5in}\begin{center}}{}{}
+\patchcmd{\@maketitle}{\end{center}}{\end{center}\end{adjustwidth}}{}{}
+\makeatother
 
 %----------------------------------------------------------------------------------------
 
