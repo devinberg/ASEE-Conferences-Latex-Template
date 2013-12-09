@@ -1,8 +1,6 @@
 ASEE Conferences Latex Template
 ===============================
 
-**ATTENTION: TEMPLATE IS NOT YET COMPLIANT WITH FORMATTING REQUIREMENTS.**
-
 A Latex template for ASEE conference proceedings papers.
 
 ASEE provides a list of formatting requirements on its [website](http://www.asee.org/conferences-and-events/conferences).
