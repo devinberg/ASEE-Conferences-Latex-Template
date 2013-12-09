@@ -5,17 +5,20 @@
 \usepackage{graphicx}
 \usepackage{etoolbox}
 \usepackage{changepage}
+\usepackage{titlesec}
 \usepackage[parfill]{parskip}
 \usepackage[margin=1in]{geometry}
 \usepackage{times}
 \usepackage[superscript,biblabel]{cite}
 \usepackage{lipsum} % Package to generate dummy text throughout this template. Remove for real use.
 
+\titleformat*{\section}{\normalsize\bfseries}
+
 
 %----------------------------------------------------------------------------------------
 %  TITLE SECTION
 %----------------------------------------------------------------------------------------
-\title{\large \textbf{This is where you put your super awesome title that describes your paper and wows the world}}
+\title{\large \textbf{This is where you put your super awesome title that describes your paper and wows the world}} % using \large makes the title approximately 14 pt.
 % Author info isn't included for the Annual Conference but some regional conferences might request it.
 \author{}
 %\author{\normalsize Author Name\\
@@ -100,7 +103,7 @@ e = mc^2
 %----------------------------------------------------------------------------------------
 %  REFERENCE LIST
 %----------------------------------------------------------------------------------------
-
+\footnotesize
 \bibliographystyle{unsrt} %Can use a different style as long as it is one which uses numbered references in the text.
 \bibliography{ASEEpaper}
 
