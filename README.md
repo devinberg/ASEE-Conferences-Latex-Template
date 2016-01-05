@@ -5,40 +5,6 @@ A Latex template for ASEE conference proceedings papers. This template is not af
 
 ASEE provides a list of formatting requirements on its [website](http://www.asee.org/conferences-and-events/conferences).
 
-## For the abstract
-### Title:
-1. Title: The title must be centered with at least a one and one-half inch margin on the left and 
-right. 
-2. Font: Times New Roman typeface is required, bold faced, 14 point.
-3. Author and Affiliation: Submissions are done in a double blind. No author or affiliation 
-information is to be included on any abstracts.
-4. Footers: Do not include any in your abstract.
-
-
-### Body of the Abstract (beginning under title information)
-1. Format: The document will be in a one-column format with left justification.
-There must be a 1 inch margin on the left, right, and bottom. 
-2. Font: Times New Roman typeface is required, 12 point, skipping one line between paragraphs.
-3. Length: Abstracts should generally be between 250 - 500 words.
-
-
-### Biographical Information
-Biographical information is to be saved in Monolith on the Author/Co-Author page. It will be 
-automatically added to your paper at the end of the process.
-
-### Other
-Do not include session numbers in any part of the document, unless specifically requested to 
-do so by a call for papers.
-Do not include any author or affiliation information in any part of your abstract so that your 
-abstract is able to receive a blind review.
-
-### Additional Guidelines and Suggestions:
-* As appropriate, include the pedagogical theory or approach being used;
-* Indicate the form that your outcome(s) will take as appropriate;
-* As applicable, methods of assessment should be made clear;
-* A second page may be used to include a graph or image to clarify the nature of your work or 
-to include limited references to indicate a basis for the work undertaken.
-
 
 ## For the draft paper
 ### Title Page (top part of first page only)
