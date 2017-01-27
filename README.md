@@ -32,6 +32,7 @@ one blank line between the heading and the paragraph.
 6. Length: There is no set limit for the number of pages a paper can or must be.
 
 ### Bibliographic Information (following body of paper)
+#### NOTE: ASEE no longer provides guidance on format of bibliographic information. Keeping this here and unchanged in the template because it is as good as anything else.
 1. Format: The bibliography must begin 4 spaces below the body of the paper using the same 
 margins as the body.
 2. Font: Times New Roman typeface is required, 10 point.
