@@ -32,12 +32,11 @@ one blank line between the heading and the paragraph.
 6. Length: There is no set limit for the number of pages a paper can or must be.
 
 ### Bibliographic Information (following body of paper)
-#### NOTE: ASEE no longer provides guidance on format of bibliographic information. Keeping this here and unchanged in the template because it is as good as anything else.
+#### NOTE: ASEE doesn't provide guidance on formatting of bibliographic information aside from the reference style. Below I've used some formatting recommendations from what ASEE used to request.
 1. Format: The bibliography must begin 4 spaces below the body of the paper using the same 
 margins as the body.
 2. Font: Times New Roman typeface is required, 10 point.
-3. Referencing: Each reference must be listed and numbered. When referring to them in the text, 
-type the corresponding reference number in superscript form.
+3. Referencing: The preferred reference style is IEEE
 
 ### Biographical Information
 Biographical information is to be saved in Monolith on the Author/Co-Author page. It will be 
