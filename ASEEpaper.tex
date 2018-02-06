@@ -9,12 +9,16 @@
 \usepackage[parfill]{parskip}
 \usepackage[margin=1in]{geometry}
 \usepackage{times}
+\usepackage{titlesec}
 \usepackage{float}
 \usepackage[numbers,sort&compress]{natbib}
 \usepackage{lipsum} % Package to generate dummy text throughout this template. Remove for real use.
 
-\titleformat*{\section}{\normalsize\bfseries} % Makes section titles 12 pt font
-
+\titleformat*{\section}{\normalsize\bfseries} % Makes section titles 12 pt font bold
+% Note that the formatting on the next line for subsections is not provided in the ASEE guidance. It is just an option.
+\titleformat*{\subsection}{\normalsize\itshape} % Makes section titles 12 pt font italic
+\titlespacing\section{0pt}{12pt plus 2pt minus 0pt}{0pt plus 2pt minus 2pt}
+\titlespacing\subsection{0pt}{12pt plus 2pt minus 0pt}{0pt plus 2pt minus 2pt}
 
 %----------------------------------------------------------------------------------------
 %  TITLE SECTION
@@ -74,7 +78,7 @@ Maecenas sed ultricies felis. Sed imperdiet dictum arcu a egestas.
 
 \section*{Results}
 
-\begin{table}[H]
+\begin{table}[h]
 \caption{Example table}
 \centering
 \begin{tabular}{llr}
@@ -84,6 +88,8 @@ John & Doe & $7.5$ \\
 Richard & Miles & $2$ \\
 \end{tabular}
 \end{table}
+
+\subsection*{Second-level heading}
 
 \lipsum[5] % Dummy text
 
