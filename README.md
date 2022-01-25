@@ -3,7 +3,7 @@ ASEE Conferences Latex Template
 
 A Latex template for ASEE conference proceedings papers. This template is not affiliated with the American Society for Engineering Education and comes with no warranty or guarantee.
 
-ASEE provides a list of formatting requirements on its [website](http://www.asee.org/conferences-and-events/conferences).
+ASEE provides a list of formatting requirements on its [website](https://www.asee.org/events/Conferences-and-Meetings).
 
 
 ## For the draft paper
